@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sidorchuk Vadim aka @KvantVS
 - 👀 I’m interested in coding, automating all and everything :), also in data science, space science and music creation :)
-- 🌱 I’m currently learning Python and DevOps
+- 🌱 I’m currently learning Python and Data Science
 - 📫 How to reach me: t.me/KvantVS, https://hh.kz/resume/82a0d717ff0772f42a0039ed1f4e784d516a6a
 
 
